@@ -1,2 +1,2 @@
 # Pygame
-Mini unfinish project that start myself in my spare times.
+Mini unfinish project that started myself in my spare times.
